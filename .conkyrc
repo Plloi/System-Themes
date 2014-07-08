@@ -12,8 +12,8 @@ own_window_type override
 #own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
 own_window_colour black
 double_buffer yes
-minimum_size  1900 1080
-maximum_width 1900
+minimum_size  1910 1080
+maximum_width 1910
 draw_shades no
 draw_outline no
 draw_borders no
@@ -24,7 +24,7 @@ default_color 00ff00
 default_shade_color 000000
 default_outline_color d9d7d6
 alignment tl
-gap_x 0
+gap_x 5
 gap_y 0
 no_buffers yes
 uppercase no
